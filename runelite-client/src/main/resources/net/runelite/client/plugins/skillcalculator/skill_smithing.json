@@ -322,13 +322,13 @@
       "level": 30,
       "icon": 1207,
       "name": "Steel Dagger",
-      "xp": 37.5
+      "xp": 39.5
     },
     {
       "level": 30,
       "icon": 2353,
       "name": "Steel Bar",
-      "xp": 17.5
+      "xp": 20
     },
     {
       "level": 31,
@@ -346,13 +346,13 @@
       "level": 31,
       "icon": 1353,
       "name": "Steel Axe",
-      "xp": 37.5
+      "xp": 39.5
     },
     {
       "level": 32,
       "icon": 1424,
       "name": "Steel Mace",
-      "xp": 37.5
+      "xp": 39.5
     },
     {
       "level": 33,
@@ -364,31 +364,31 @@
       "level": 33,
       "icon": 1141,
       "name": "Steel Med Helm",
-      "xp": 37.5
+      "xp": 39.5
     },
     {
       "level": 33,
       "icon": 9378,
       "name": "Steel Bolts (Unf)",
-      "xp": 37.5
+      "xp": 39.5
     },
     {
       "level": 34,
       "icon": 821,
       "name": "Steel Dart Tip",
-      "xp": 37.5
+      "xp": 39.5
     },
     {
       "level": 34,
       "icon": 1539,
       "name": "Steel Nails",
-      "xp": 37.5
+      "xp": 39.5
     },
     {
       "level": 34,
       "icon": 1281,
       "name": "Steel Sword",
-      "xp": 37.5
+      "xp": 39.5
     },
     {
       "level": 35,
@@ -400,67 +400,67 @@
       "level": 35,
       "icon": 1325,
       "name": "Steel Scimitar",
-      "xp": 75
+      "xp": 80
     },
     {
       "level": 35,
       "icon": 41,
       "name": "Steel Arrowtips",
-      "xp": 37.5
+      "xp": 39.5
     },
     {
       "level": 36,
       "icon": 9425,
       "name": "Steel Limbs",
-      "xp": 37.5
+      "xp": 39.5
     },
     {
       "level": 36,
       "icon": 2370,
       "name": "Steel Studs",
-      "xp": 37.5
+      "xp": 39.5
     },
     {
       "level": 36,
       "icon": 1295,
       "name": "Steel Longsword",
-      "xp": 75
+      "xp": 80
     },
     {
       "level": 36,
       "icon": 19574,
       "name": "Steel Javelin Heads",
-      "xp": 37.5
+      "xp": 39.5
     },
     {
       "level": 37,
       "icon": 865,
       "name": "Steel Knife",
-      "xp": 37.5
+      "xp": 39.5
     },
     {
       "level": 37,
       "icon": 1157,
       "name": "Steel Full Helm",
-      "xp": 75
+      "xp": 80
     },
     {
       "level": 38,
       "icon": 1177,
       "name": "Steel Sq Shield",
-      "xp": 75
+      "xp": 80
     },
     {
       "level": 39,
       "icon": 1339,
       "name": "Steel Warhammer",
-      "xp": 112.5
+      "xp": 115
     },
     {
       "level": 40,
       "icon": 1365,
       "name": "Steel Battleaxe",
-      "xp": 112.5
+      "xp": 115
     },
     {
       "level": 40,
