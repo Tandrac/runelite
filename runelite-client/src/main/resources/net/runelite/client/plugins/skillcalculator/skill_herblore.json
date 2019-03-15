@@ -122,6 +122,12 @@
     },
     {
       "level": 39,
+      "icon": 10143,
+      "name": "Grimy Tarromin",
+      "xp": 5.5
+    },
+    {
+      "level": 39,
       "icon": 10144,
       "name": "Tarromin tar",
       "xp": 55
@@ -157,6 +163,12 @@
       "xp": 10
     },
     {
+      "level": 48,
+      "icon": 260,
+      "name": "Grimy Avanote",
+      "xp": 10
+    },
+    {
       "level": 50,
       "icon": 151,
       "name": "Fishing Potion (3)",
@@ -179,6 +191,12 @@
       "icon": 263,
       "name": "Kwuarm",
       "xp": 11.3
+    },
+    {
+      "level": 54,
+      "icon": 264,
+      "name": "Kwarum Bait",
+      "xp": 5
     },
     {
       "level": 55,
