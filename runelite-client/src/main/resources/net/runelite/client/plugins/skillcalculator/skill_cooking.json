@@ -280,7 +280,7 @@
       "level": 30,
       "icon": 2191,
       "name": "Worm Hole",
-      "xp": 170
+      "xp": 180
     },
     {
       "level": 30,
@@ -310,7 +310,7 @@
       "level": 35,
       "icon": 2289,
       "name": "Plain Pizza",
-      "xp": 143
+      "xp": 145
     },
     {
       "level": 35,
@@ -382,13 +382,13 @@
       "level": 45,
       "icon": 2293,
       "name": "Meat Pizza",
-      "xp": 169
+      "xp": 170
     },
     {
       "level": 47,
       "icon": 7188,
       "name": "Fish Pie",
-      "xp": 164
+      "xp": 165
     },
     {
       "level": 50,
