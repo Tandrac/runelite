@@ -289,6 +289,12 @@
       "xp": 319.5
     },
     {
+      "level": 68,
+      "icon": 18392,
+      "name": "Azure Chinchompa",
+      "xp": 178
+    },
+    {
       "level": 69,
       "icon": 9964,
       "name": "Dashing Kebbit",
@@ -341,6 +347,12 @@
       "icon": 19732,
       "name": "Lucky Impling",
       "xp": 380
+    },
+    {
+      "level": 89,
+      "icon": 20132,
+      "name": "Crimson Chinchompa",
+      "xp": 382
     }
   ]
 }
