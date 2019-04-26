@@ -328,6 +328,12 @@
       "icon": 22124,
       "name": "Superior Dragon Bones",
       "xp": 150
+    },
+    {
+      "level": 1,
+      "icon": 14277,
+      "name": "Frost Dragon Bones",
+      "xp": 180
     }
   ]
 }

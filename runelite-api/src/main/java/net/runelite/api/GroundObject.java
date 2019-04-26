@@ -27,6 +27,8 @@ package net.runelite.api;
 /**
  * Represents an object on the ground of a tile.
  */
+
+//possibly deprecated function?
 public interface GroundObject extends TileObject
 {
 	Renderable getRenderable();

@@ -39,6 +39,9 @@ import net.runelite.cache.fs.Index;
 import net.runelite.cache.fs.Storage;
 import net.runelite.cache.fs.Store;
 
+//possibly an issue with the overlay or underlay manager
+//potentially also loading item list?
+
 public class OverlayManager implements OverlayProvider
 {
 	private final Store store;

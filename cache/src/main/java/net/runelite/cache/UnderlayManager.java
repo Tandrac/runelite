@@ -39,6 +39,8 @@ import net.runelite.cache.fs.Index;
 import net.runelite.cache.fs.Storage;
 import net.runelite.cache.fs.Store;
 
+//check underlay for terrain drop
+
 public class UnderlayManager implements UnderlayProvider
 {
 	private final Store store;
